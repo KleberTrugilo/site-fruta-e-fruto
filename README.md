@@ -1,0 +1,1 @@
+Site desenvolvido durante o curso "Bootstrap 4: criando uma landpage responsiva" da plataforma de cursos Alura, como parte das atividades do estágio no Programa de Aceleração de Carreiras - int.Lab (Grupo Integrado, Campo Mourão-PR). Trata-se de um site para um restaurante fictício, cuja construção é baseada no uso da framework Bootstrap (v5.2).
